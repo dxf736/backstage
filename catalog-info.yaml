@@ -3,6 +3,10 @@ kind: Component
 metadata:
   name: demo-jira
   description: An example deployment of a jira.
+  links:
+    - url: https://jiradc.ext.net.nokia.com/
+      title: Jira
+      icon: web
   annotations:
     jira/project-key: DCMCB
 spec:
