@@ -5,6 +5,10 @@ metadata:
   description: An example deployment of a jira.
   annotations:
     jira/project-key: DCMCB
+  links:
+    - title: Jira
+       url: https://jiradc.ext.net.nokia.com/
+       icon: web
 spec:
   type: service
   owner: guests
