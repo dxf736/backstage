@@ -7,5 +7,5 @@ metadata:
     github.com/project-slug: backstage
 spec:
   type: website
-  owner: backstage/dxf736
+  owner: dxf736/backstage
   lifecycle: experimental
