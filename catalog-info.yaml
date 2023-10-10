@@ -1,11 +1,11 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: demo
+  name: demo-wj
   description: An example deployment of a Backstage application.
   annotations:
-    github.com/project-slug: backstage/demo
+    github.com/project-slug: backstage
 spec:
   type: website
-  owner: backstage/maintainers
+  owner: backstage/dxf736
   lifecycle: experimental
