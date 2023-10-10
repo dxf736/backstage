@@ -5,6 +5,7 @@ metadata:
   description: An example deployment of a Backstage application.
   annotations:
     github.com/project-slug: backstage
+    jira/project-key: DCMCB
 spec:
   type: website
   owner: dxf736/backstage
