@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: demo-wj
-  description: An example deployment of a Backstage application.
+  name: demo-jira
+  description: An example deployment of a jira.
   annotations:
     jira/project-key: DCMCB
 spec:
