@@ -9,7 +9,6 @@ metadata:
       icon: web
   annotations:
     jira/project-key: DCMCB
-    jira/token-type: Bearer 
 spec:
   type: service
   owner: guests
