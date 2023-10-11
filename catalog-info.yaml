@@ -6,7 +6,7 @@ metadata:
   links:
     - url: https://jiradc.ext.net.nokia.com/
       title: Jira
-      icon: web
+      icon: dashboard
   annotations:
     jira/project-key: DCMCB
     jira/token-type: Bearer
