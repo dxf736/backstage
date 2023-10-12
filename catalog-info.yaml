@@ -8,9 +8,8 @@ metadata:
       title: Jira
       icon: dashboard
   annotations:
-    jira/project-key: DCMCB
-    jira/token-type: Bearer
+    jira/project-key: FCA_DCM_UM
 spec:
   type: service
   owner: guests
-  lifecycle: experimental
+  lifecycle: dry-run
