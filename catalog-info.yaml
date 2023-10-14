@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: demo-jira
+  name: demo-jira-github
   description: An example deployment of a jira.
   links:
     - url: https://jiradc.ext.net.nokia.com/
